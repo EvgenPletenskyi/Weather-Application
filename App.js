@@ -8,6 +8,7 @@ export default function App() {
       <StatusBar style="auto" />
     </View>
     // GGGGGGGGGGGGGGGGGGGGGGGG
+//123
   );
 }
 
