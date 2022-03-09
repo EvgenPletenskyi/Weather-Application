@@ -5,7 +5,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 
 const weatherOption = {
-    Cloud: {
+    Clouds: {
         iconName: 'cloud',
         gradient: ['#348ac7', '#7474bf'],
         color: 'white',

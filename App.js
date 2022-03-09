@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, Alert } from 'react-native';
+import {Alert } from 'react-native';
 import React, { Component } from 'react';
 import * as Location from 'expo-location';
 import Loading from './components/Loading';
